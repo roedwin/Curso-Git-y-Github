@@ -35,6 +35,16 @@ body {
     font-size: 20px;
 }
 #post {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
+=======
+    padding: 1em;
+}
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> 601a7e60b55fe64411e0943f2f48aa991a2e1576
 }
